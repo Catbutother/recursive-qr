@@ -1,2 +1,2 @@
 # reqursive-qr
-![image](https://github.com/Catbutother/recursive-qr/raw/main/reqursive-qr.png)
+![image](https://raw.githubusercontent.com/Catbutother/recursive-qr/main/reqursive-qr.png)
